@@ -1,4 +1,4 @@
-# SoftwareConstruction
+# To Do App
 
 To select Windows Forms interface in IDE right click "Presentation Layer - WinForms" project and select "Set as Startup Profect".
 
