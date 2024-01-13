@@ -150,3 +150,50 @@ C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Con
 C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Data Access Layer\obj\Debug\Data Access Layer.csproj.CopyComplete
 C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Data Access Layer\obj\Debug\Data Access Layer.dll
 C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Data Access Layer\obj\Debug\Data Access Layer.pdb
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\Data Access Layer.dll.config
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\Data Access Layer.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\Data Access Layer.pdb
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\DnsClient.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\EntityFramework.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\MongoDB.Bson.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\MongoDB.Driver.Core.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\MongoDB.Driver.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\SharpCompress.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\Snappier.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\System.Buffers.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\System.Memory.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\System.Numerics.Vectors.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\System.Security.AccessControl.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\System.Security.Principal.Windows.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\ZstdSharp.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\DnsClient.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\EntityFramework.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\MongoDB.Bson.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\MongoDB.Driver.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\MongoDB.Driver.Core.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\Snappier.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\System.Buffers.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\System.Memory.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\System.Numerics.Vectors.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\System.Security.AccessControl.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\System.Security.Principal.Windows.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\obj\Debug\Data Access Layer.csproj.AssemblyReference.cache
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\obj\Debug\Data Access Layer.csproj.CoreCompileInputs.cache
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\obj\Debug\Data Access Layer.csproj.CopyComplete
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\obj\Debug\Data Access Layer.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Data Access Layer\obj\Debug\Data Access Layer.pdb

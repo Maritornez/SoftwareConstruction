@@ -1,0 +1,8 @@
+﻿@model Lab5AspNetMVC.Models.TaskModel
+
+@{
+    ViewBag.Title = "Добавить задачу";
+    ViewBag.ButtonTitle = "Добавить";
+}
+
+@Html.Partial("_TaskForm", Model)

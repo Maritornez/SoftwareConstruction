@@ -1,0 +1,97 @@
+﻿@model Lab5AspNetMVC.Models.LinkReportKindModel
+
+@{ 
+    ViewBag.Title = "Задачи по виду";
+}
+
+<div class="row">
+    <h1>Задачи по виду</h1>
+    @using (Html.BeginForm())
+    {
+        @Html.DropDownListFor(model => model.SelectedKindId, new SelectList(Model.taskKindsList, "Id", "Name"), new { @Style = "width:100%;" });
+        <input type="submit" value="Найти" class="btn btn-default" />
+    }
+</div>
+
+<div class="row">
+    <table class="table">
+        <tr>
+            <th>
+                Название
+            </th>
+            <th>
+                Описание
+            </th>
+            <th>
+                Дата начала
+            </th>
+            <th>
+                Время начала
+            </th>
+            <th>
+                Дата окончания
+            </th>
+            <th>
+                Время окончания
+            </th>
+            <th>
+                Повторяемость
+            </th>
+            <th>
+                Дни
+            </th>
+            <th>
+                Надели
+            </th>
+            <th>
+                Месяцы
+            </th>
+            <th>
+                Годы
+            </th>
+            <th></th>
+        </tr>
+
+        @if (Model.SelectionByKindData != null)
+        {
+            foreach (var item in Model.SelectionByKindData)
+            {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.ValueFor(modelItem => item.BeginDate, "{0:dd/MM/yyyy}")
+                </td>
+                <td>
+                    @Html.ValueFor(modelItem => item.BeginTime, "{0:hh\\:mm}")
+                </td>
+                <td>
+                    @Html.ValueFor(modelItem => item.EndDate, "{0:dd/MM/yyyy}")
+                </td>
+                <td>
+                    @Html.ValueFor(modelItem => item.EndTime, "{0:hh\\:mm}")
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IsRepeat)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RepeatIntervalDays)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RepeatIntervalWeeks)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RepeatIntervalMonths)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RepeatIntervalYears)
+                </td>
+            </tr>
+            }
+        }
+        </table>
+</div>

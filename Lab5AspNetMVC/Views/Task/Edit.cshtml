@@ -1,0 +1,12 @@
+﻿@model Lab5AspNetMVC.Models.TaskModel
+
+@{
+    ViewBag.Title = "Изменить задачу";
+    ViewBag.ButtonTitle = "Изменить";
+}
+
+@Html.Partial("_TaskForm", Model)
+
+<div>
+    @Html.ActionLink("Список задач", "Index")
+</div>

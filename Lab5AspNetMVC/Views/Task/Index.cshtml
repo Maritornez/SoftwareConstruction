@@ -1,0 +1,103 @@
+﻿@using Lab5AspNetMVC.Controllers
+@model IEnumerable<Lab5AspNetMVC.Models.TaskModel>
+
+@{ 
+    ViewBag.Title = "Список задач";
+    //int id = 0;
+}
+
+<p>
+    @Html.ActionLink("Добавить", @*"Create"*@ nameof(TaskController.Create), null, new { @class = "btn btn-default" })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.KindName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StatusName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BeginDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BeginTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EndDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EndTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IsRepeat)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RepeatIntervalDays)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RepeatIntervalWeeks)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RepeatIntervalMonths)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RepeatIntervalYears)
+        </th>
+        <th></th>
+    </tr>
+    
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Description)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.KindName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StatusName)
+        </td>
+        <td>
+            @Html.ValueFor(modelItem => item.BeginDate, "{0:dd/MM/yyyy}")
+        </td>
+        <td>
+            @Html.ValueFor(modelItem => item.BeginTime, "{0:hh\\:mm}")
+        </td>
+        <td>
+            @Html.ValueFor(modelItem => item.EndDate, "{0:dd/MM/yyyy}")
+        </td>
+        <td>
+            @Html.ValueFor(modelItem => item.EndTime, "{0:hh\\:mm}")
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.IsRepeat)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RepeatIntervalDays)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RepeatIntervalWeeks)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RepeatIntervalMonths)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RepeatIntervalYears)
+        </td>
+        <td>
+            @Html.ActionLink("Изменить", @*"Edit"*@ nameof(TaskController.Edit), new { id=item.Id }, new { @class = "btn btn-default" }) |
+            @Html.ActionLink("Удалить", @*"Delete"*@ nameof(TaskController.Delete), new { id=item.Id }, new { @class = "btn btn-default" })
+        </td>
+    </tr>
+}
+</table>
