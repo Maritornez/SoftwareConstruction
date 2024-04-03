@@ -1,0 +1,43 @@
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\mongocrypt.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\Business Logic Layer.dll.config
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\Business Logic Layer.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\Business Logic Layer.pdb
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\Data Access Layer.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\EntityFramework.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\EntityFramework.SqlServer.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\Ninject.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\MongoDB.Driver.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\MongoDB.Driver.Core.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\MongoDB.Bson.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\MongoDB.Libmongocrypt.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\DnsClient.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\SharpCompress.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\ZstdSharp.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\Snappier.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\System.Memory.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\System.Buffers.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\System.Numerics.Vectors.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\Data Access Layer.pdb
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\Data Access Layer.dll.config
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\EntityFramework.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\EntityFramework.SqlServer.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\Ninject.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\MongoDB.Driver.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\MongoDB.Driver.Core.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\MongoDB.Bson.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\DnsClient.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\Snappier.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\System.Memory.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\System.Buffers.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\bin\Release\System.Numerics.Vectors.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\obj\Release\Business Logic Layer.csproj.AssemblyReference.cache
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\obj\Release\Business Logic Layer.csproj.CoreCompileInputs.cache
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\obj\Release\Business.6AB683E1.Up2Date
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\obj\Release\Business Logic Layer.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Lab - Compilation\Business Logic Layer\obj\Release\Business Logic Layer.pdb

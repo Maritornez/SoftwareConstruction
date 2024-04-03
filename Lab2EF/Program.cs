@@ -21,9 +21,11 @@ namespace Lab2EF
         [STAThread]
         static void Main()
         {
-            string connection = ConfigurationManager.ConnectionStrings["TaskContext"].ConnectionString;
-            //string connection = ConfigurationManager.ConnectionStrings["TaskContextMongoDb"].ConnectionString;
-            // внедрение зависимостей
+            // Выбор базы данных
+            string connection = ConfigurationManager.ConnectionStrings["TaskContext"].ConnectionString;             // MS SQL Server
+            //string connection = ConfigurationManager.ConnectionStrings["TaskContextMongoDb"].ConnectionString;    // MongoDB
+
+            // Внедрение зависимостей
             var kernel = new StandardKernel(new NinjectRegistrations(), new ServiceModule(connection));
 
             IDbCrud crudServ = kernel.Get<IDbCrud>();
