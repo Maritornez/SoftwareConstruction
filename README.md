@@ -1,6 +1,8 @@
 # To Do App
 ***Прояснительная записка к проекту в виде файла .docx находится в репозитории***
 
+CRUD-приложение. C#. WinForms или Web-интерфейс (ASP.NET, MVC). База данных: MS SQL Server или MongoDB 
+
 Решение разделено на три слоя: <br>
 DAL (Data Access Level) <br>
 BLL (Business Logic Layer) <br>
